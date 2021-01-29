@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿//****************************
+//*
+//* Created By Lochlan Kennedy - Outback Games
+//* https://outbackgames.com.au | https://github.com/Outback-Games/Outback-Games-Simple-UI-Tools-for-Unity
+//*
+//****************************
+using System.Collections;
 using UnityEngine;
 namespace OutbackGames.NecoreTowerRedux.UI.Tools
 {
