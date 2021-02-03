@@ -6,7 +6,7 @@
 //****************************
 using System.Collections;
 using UnityEngine;
-namespace OutbackGames.NecoreTowerRedux.UI.Tools
+namespace OutbackGames.UI.Tools
 {
     public class CursorManager : MonoBehaviour
     {
