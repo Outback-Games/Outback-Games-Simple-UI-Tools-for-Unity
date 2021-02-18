@@ -69,7 +69,12 @@ namespace OutbackGames.UI.Tools
             }
 
         }
-
+        
+        private void OnApplicationQuit()
+        {
+            UnlockMouse();
+            StopAllCoroutines();
+        }
 
         private void OnDestroy() {
             StopAllCoroutines();
